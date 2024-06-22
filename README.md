@@ -7,12 +7,13 @@
 
 To use this starter you will need to add the following dependency to your project.
 
-```xml
+```
 <dependency>
-    <groupId>com.danielb.demo</groupId>
-    <artifactId>external-service</artifactId>
+    <groupId>dev.danielb</groupId>
+    <artifactId>extservice-spring-boot-starter</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 </dependency>
+
 ```
 
 ## References

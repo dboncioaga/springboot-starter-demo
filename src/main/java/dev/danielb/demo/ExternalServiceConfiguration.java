@@ -1,6 +1,6 @@
-package com.danielb.demo.restclient;
+package dev.danielb.demo;
 
-import com.danielb.demo.restclient.client.UserClient;
+import dev.danielb.demo.client.UserClient;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.boot.autoconfigure.AutoConfiguration;

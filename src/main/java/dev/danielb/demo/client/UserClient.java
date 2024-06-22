@@ -1,6 +1,6 @@
-package com.danielb.demo.restclient.client;
+package dev.danielb.demo.client;
 
-import com.danielb.demo.restclient.dto.User;
+import dev.danielb.demo.dto.User;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Qualifier;

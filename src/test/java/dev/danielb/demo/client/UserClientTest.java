@@ -1,8 +1,8 @@
-package com.danielb.demo.restclient.client;
+package dev.danielb.demo.client;
 
-import com.danielb.demo.restclient.ExternalServiceConfiguration;
-import com.danielb.demo.restclient.ExternalServiceProperties;
-import com.danielb.demo.restclient.dto.User;
+import dev.danielb.demo.ExternalServiceConfiguration;
+import dev.danielb.demo.ExternalServiceProperties;
+import dev.danielb.demo.dto.User;
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.autoconfigure.AutoConfigurations;
 import org.springframework.boot.autoconfigure.web.client.RestClientAutoConfiguration;

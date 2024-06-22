@@ -1,4 +1,4 @@
-package com.danielb.demo.restclient.dto;
+package dev.danielb.demo.dto;
 
 public record Company(
         String name,
